@@ -1,0 +1,6 @@
+order_id,order_date,region,category,sub_category,product_name,sales,profit,inventory_days
+CA-2016-152156,2016-11-08,West,Furniture,Bookcases,Bush Somerset Bookcase,261.96,41.91,180
+CA-2016-152156,2016-11-08,West,Furniture,Chairs,Hon Deluxe Fabric Chair,731.94,219.58,30
+CA-2016-138688,2016-06-12,Central,Office Supplies,Labels,Avery 510,14.62,6.87,60
+US-2015-108966,2015-10-11,East,Technology,Phones,Apple iPhone 6,907.152,200.96,20
+US-2015-108966,2015-10-11,East,Technology,Accessories,Logitech Mouse,25.248,5.25,5
